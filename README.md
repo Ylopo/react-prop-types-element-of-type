@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Moving away from this repo as ov Dec 2021
+
+
+
 # react-prop-types-element-of-type
 > Check if given React element is created by certain Component type
 
